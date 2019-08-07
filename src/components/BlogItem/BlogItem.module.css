@@ -1,0 +1,16 @@
+.BlogImage {
+  width: 300px;
+}
+  
+.BlogTitle {
+  font-size: 24px;
+}
+
+.BlogDesc {
+  font: 18px;
+}
+
+.BlogCard {
+  margin: 15px;
+  display: block;
+}

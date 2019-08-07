@@ -1,0 +1,18 @@
+.Wrapper {
+  margin: 3px;
+  padding: 10px;
+  border: 1px;
+  border-style: solid;
+  width: 500px;
+}
+
+.Name {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.Email {
+  font-size: 12px;
+  font-style: italic;
+  color: darkorange;
+}
